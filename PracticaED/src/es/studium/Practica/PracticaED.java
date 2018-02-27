@@ -9,6 +9,8 @@ public class PracticaED {
 		//x2
 		
 		System.out.println("Hola mundo!"); // Saludo de parte de Eduardo
+		
+		//Comentario de Carmen para la práctica de ED
  	}
 
 }
